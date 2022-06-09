@@ -4,6 +4,7 @@
 
 <a href="https://velog.io/@gwongibeom" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwongibeom)](https://github.com/gwongibeom/github-readme-stats)
 <!--
 **gwongibeom/gwongibeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
