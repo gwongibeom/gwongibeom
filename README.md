@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwongibeom&count_bg=%23ADE6FF&title_bg=%230F0F0F&icon=&icon_color=%23E7E7E7&title=%E2%9C%A8Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<a href="https://velog.io/@gwongibeom" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
+
 <!--
 **gwongibeom/gwongibeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
