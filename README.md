@@ -5,3 +5,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwongibeom&count_bg=%23ADE6FF&title_bg=%230F0F0F&icon=&icon_color=%23E7E7E7&title=%E2%9C%A8Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwongibeom)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwongibeom&langs_count=10&layout=compact&theme=dark)](https://github.com/gwongibeom/gwongibeom)﻿
