@@ -1,5 +1,3 @@
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbeoaJ1%2FbtsGg0YyMKC%2FkdYuZ5DKLKihuANxK7sGr0%2Fimg.jpg">
-
 ## 🔥🌿💧 야생의 개발자 권기범이 채용공고에 서류 신청을 걸어왔다! 🔥🌿💧
 
 <img style="width:500px" src="https://tistory1.daumcdn.net/tistory/6996018/attach/f9e38dedc6034604b9fc328cc44d4ccb">
@@ -22,3 +20,5 @@
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=gwongibeom&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="gwongibeom's github stats" />
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwongibeom&layout=compact&theme=nord&hide_border=true" />
 </div>
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbeoaJ1%2FbtsGg0YyMKC%2FkdYuZ5DKLKihuANxK7sGr0%2Fimg.jpg">
