@@ -1,8 +1,8 @@
-## 안녕하세용. 프론트엔드 개발자가 되고 싶은 권기범입니당. 👋
+## 야생의 개발자 권기범이 채용공고에 서류 신청을 걸어왔다!
 
 <img style="width:500px" src="https://tistory1.daumcdn.net/tistory/6996018/attach/f9e38dedc6034604b9fc328cc44d4ccb">
 
- **야생의 개발자 권기범**이 채용공고에 서류 신청을 걸어왔다!
+**가라 이력서!!!**
 
 * [📃이력서 보러가기](https://www.rallit.com/hub/resumes/24850/%EA%B6%8C%EA%B8%B0%EB%B2%94)
 * [✍️블로그 보러가기](https://gwon-dev.tistory.com/)
