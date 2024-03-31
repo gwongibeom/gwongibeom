@@ -1,4 +1,4 @@
-## 야생의 개발자 권기범이 채용공고에 서류 신청을 걸어왔다!
+## 🔥🌿💧 야생의 개발자 권기범이 채용공고에 서류 신청을 걸어왔다! 🔥🌿💧
 
 <img style="width:500px" src="https://tistory1.daumcdn.net/tistory/6996018/attach/f9e38dedc6034604b9fc328cc44d4ccb">
 
