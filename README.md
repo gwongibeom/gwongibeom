@@ -1,7 +1,5 @@
 ## 🔥🌿💧 야생의 개발자 권기범이 채용공고에 서류 신청을 걸어왔다! 🔥🌿💧
 
-<img style="width:500px" src="https://tistory1.daumcdn.net/tistory/6996018/attach/f9e38dedc6034604b9fc328cc44d4ccb">
-
 **가라 이력서!!!**
 
 * [📃이력서 보러가기](https://www.rallit.com/hub/resumes/24850/%EA%B6%8C%EA%B8%B0%EB%B2%94)
